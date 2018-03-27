@@ -37,3 +37,5 @@
 - 祖孙 582
 ### 其他
 - 其他特征与训练数据基本一致
+## bug
+- ValueError: Found input variables with inconsistent numbers of samples: [285252, 244684]
