@@ -29,7 +29,7 @@ def main_for_evaluation():
     test_settings = network.Settings()
     test_settings.vocab_size = 16693
     test_settings.num_classes = 12
-    test_settings.big_num = 5561
+    test_settings.big_num = 1
 
     big_num_test = test_settings.big_num
 
